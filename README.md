@@ -1,6 +1,6 @@
 # RequestRandomNames
 
-fetchAPI exercise! :D
+##fetchAPI exercise! :D
 
 Small project for practicing fetchAPI concepts. 
 I had to face some trouble since the original API that i was supposed to use wasn't working anymore, 
